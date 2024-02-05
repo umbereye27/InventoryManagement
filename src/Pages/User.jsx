@@ -199,7 +199,7 @@ function User() {
                 <div className="sm:flex sm:items-start">
                   <div className="mx-auto flex-shrink-0 flex items-center justify-center h-12 w-12 rounded-full bg-blue-100 sm:mx-0 sm:h-10 sm:w-10">
                     <svg
-                      className="h-6 w-6 text-blue-600"
+                      className="h-6 w-6 text-blue-700s"
                       xmlns="http://www.w3.org/2000/svg"
                       fill="none"
                       viewBox="0 0 24 24"
